@@ -1,5 +1,5 @@
 Flask==2.3.2
-Werkzeug==2.3.7     # ✅ Add this line
+Werkzeug==2.3.7
 psycopg2-binary==2.9.6
 SQLAlchemy==2.0.20
 pytest==7.4.0
