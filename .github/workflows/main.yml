@@ -42,4 +42,4 @@ jobs:
         run: |
           python -c "from models import User, Session, init_db; print('User class imported:', User)"
           python -c "from app import app; print('Flask app imported:', app)"
-          pytest -v
+          pytest -v #testing commit 
